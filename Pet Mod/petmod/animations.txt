@@ -1,0 +1,164 @@
+ANTLION
+
+0	=	Idle
+1	=	DistractIdle2
+2	=	DistractIdle3
+3	=	DistractIdle4
+4	=	walk_all
+5	=	run_all
+6	=	ScuttleRt
+7	=	ScuttleLeft
+8	=	RunAgitated
+9	=	Flip1
+10	=	attack1
+11	=	attack2
+12	=	attack3
+13	=	attack4
+14	=	attack5
+15	=	attack6
+16	=	charge_start
+17	=	charge_run
+18	=	charge_end
+19	=	pounce
+20	=	pounce2
+21	=	distract
+22	=	distract_arrived
+23	=	jump_start
+24	=	jump_glide
+25	=	jump_stop
+26	=	fly_in
+27	=	turn_right
+28	=	turn_left
+29	=	digin
+30	=	digout
+31	=	drown
+32	=	digidle
+33	=	touchtest
+34	=	frustration
+35	=	headturn
+36	=	head_pitch
+37	=	head_yaw
+38	=	ragdoll
+
+HEAD CRAB
+
+0	=	Idle01
+1	=	IdleB
+2	=	Run1
+3	=	TurnLeft
+4	=	TurnRight
+5	=	jumpattack_broadcast
+6	=	Drown
+7	=	canal5b_sewer_jump
+8	=	headcrabbed
+9	=	headcrabbedpost
+10	=	BurrowIn
+11	=	BurrowOut
+12	=	BurrowIdle
+13	=	cannisterDeploy_A
+14	=	cannisterDeploy_B
+15	=	cannisterDeploy_C
+16	=	testDeploy_A
+17	=	testDeploy_b
+18	=	testDeploy_C
+19	=	ragdoll
+
+models/antlion_guard.mdl
+
+0	=	idle
+1	=	alertidle
+2	=	cover_enter
+3	=	cover_loop
+4	=	cover_exit
+5	=	cover_creep1
+6	=	cover_creep2
+7	=	cover_flinch
+8	=	peek_flinch
+9	=	peek_enter
+10	=	peek_left
+11	=	peek_right
+12	=	peek_sniff
+13	=	peek_exit
+14	=	peek_squeeze
+15	=	pain
+16	=	walk1
+17	=	sneak1
+18	=	hurtrun1
+19	=	run1
+20	=	uprun1
+21	=	turn_right
+22	=	turn_left
+23	=	walkS
+24	=	walkSE
+25	=	walkE
+26	=	walkNE
+27	=	walkN
+28	=	walkNW
+29	=	walkW
+30	=	walkSW
+31	=	search
+32	=	shove
+33	=	fireattack
+34	=	bark
+35	=	charge_startfast
+36	=	charge_cancel
+37	=	charge_loop
+38	=	charge_crash03
+39	=	charge_crash02
+40	=	charge_crash
+41	=	charge_crash2
+42	=	charge_crash3
+43	=	charge_stop
+44	=	death01
+45	=	charge_hit
+46	=	charge_anticipate
+47	=	roar
+48	=	physhit_fr
+49	=	physhit_fl
+50	=	physhit_rr
+51	=	physhit_rl
+52	=	physthrow
+53	=	flinch1
+54	=	flinch2
+55	=	floor_break
+56	=	inoutalert01
+57	=	bugbait
+58	=	charge_start_stop
+59	=	headturn
+60	=	head_pitch
+61	=	head_yaw
+62	=	ragdoll
+
+
+models/zombie/fast.mdl
+
+0	=	idle
+1	=	idle_angry
+2	=	idle_onfire
+3	=	Run
+4	=	Leap
+5	=	LeapStrike
+6	=	LandRight
+7	=	LandLeft
+8	=	Melee
+9	=	climbmount
+10	=	climbloop
+11	=	climbdismount
+12	=	JumpNavMove
+13	=	leap_start
+14	=	leap_loop
+15	=	leap_land
+16	=	BR2_Roar
+17	=	BR2_Attack
+18	=	walk_all
+19	=	ragdoll
+
+models/zombie/classic_torso.mdl
+
+0	=	Idle01
+1	=	Idle02
+2	=	crawl
+3	=	attack
+4	=	releasecrab
+5	=	fall
+6	=	ragdoll

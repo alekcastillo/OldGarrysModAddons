@@ -1,0 +1,4 @@
+1. Extract the ez_ammo_dispensers folder from the zip file you downloaded.
+2. Copy and paste it on the garrysmod/addons folder of your Garry's Mod Server directory
+3. Configure the addon with the ezad_config.lua located in the ez_ammo_dispensers/lua folder.
+4. Enjoy it!

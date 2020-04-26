@@ -1,0 +1,4 @@
+1. Extract the textured_hud folder from the zip file you downloaded.
+2. Copy and paste it on the garrysmod/addons folder of your Garry's Mod folder
+3. Configure the addon with the textured_hud_config.lua located in the textured_hud/lua folder.
+4. Enjoy it!

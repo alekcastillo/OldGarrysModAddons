@@ -1,0 +1,19 @@
+Thanks for buying my script, if you enjoy it, please remember to post a review of it!
+That helps me alot!
+Also, remember that if you bought this script on the first week of its release, you can get another script for free!
+Just post a 5 stars review of this, and pm me with the script you want. You can choose 1 of my 2 other scripts, 
+GTA V Wanted System, or Advanced Bailing System. Thanks!
+
+-- Installation --
+Just drag and drop the 'cartoonhud' folder to your addons folder in your game server.
+
+-- Configuration --
+To change your script config, edit the cartoonhud_config.lua file in the cartoonhud/lua/ folder!
+To change the hud's theme, use the cartoonhud_theme_config.lua located in the same folder.
+I recommend using notepad++ or sublime text for this.
+
+-- Support --
+If you have any bug reports / questions, please open a support ticket!
+Adding me for support will get you instantly blocked!
+
+-Yanots

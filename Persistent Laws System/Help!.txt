@@ -1,0 +1,15 @@
+Thanks for buying my script, if you enjoy it, please remember to post a review of it!
+That helps me alot!
+
+-- Installation --
+Just drag and drop the 'persistentlawssystem' folder to your addons folder in your game server.
+
+-- Configuration --
+To change your script config, edit the persislaws_config.lua file in the persistentlaws/lua/persistentlawssystem folder!
+I recommend using notepad++ for this.
+
+-- Support --
+If you have any bug reports / questions, please open a support ticket!
+Adding me for support will get you instantly blocked!
+
+-Yanots

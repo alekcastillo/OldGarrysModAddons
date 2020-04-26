@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+	"name" "Pet Mod"
+	"author_name" "Nautical & Alek"
+	"info" "Pets for DarkRP"
+}
