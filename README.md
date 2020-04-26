@@ -4,7 +4,7 @@ Back in 2016-2017, I got deep into the Garry's Mod addon development scene since
 
 I stopped giving support to these addons when I started my senior year, so I decided to upload them publicly in case someone wants to try them out for free, or use some of the code for reference. Keep in mind, I was 16 when I developed most of this, so don't be surprised if you find some horrifying code.
 
-![](images/all_scripts.png)
+![](images/all_scripts.PNG)
 
 # Links to each script
 
